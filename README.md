@@ -45,6 +45,6 @@ Additionally, I do not believe that a line chart is the best method to present d
 
 - What are some other possible tables and/or graphs that we could create?
 
-To alleviate this risk, it could be helpful to seek feedback from backers explaining their decision-making process and create a table that displays recurring themes for successful and failed campaigns, in order to better understand why they donated certain amounts and for which campaigns. 
+To alleviate some of the risk qauntitative data like this poses, it could be helpful to seek feedback from backers explaining their decision-making process and create a table that displays recurring themes for successful and failed campaigns, in order to better understand why they donated certain amounts and for which campaigns. 
 
 It might also be helpful to look more closely at not only the launch date of campaigns, but also their deadlines, in order to determine how long or short of a time the client's campaign should last to achieve the highest rate of success. This could be done by inserting a new column, "Campaign Length", and creating a histogram with ranges to measure campaign length on the x-axis, percentage on the y-axis, and using "successful" and "failed" as two variables to be measured. This information would mirror the table, functions, and graph used in the "Outcomes Based on Goals" worksheet (with the implication that the line chart is substituted with a histogram).
